@@ -31,7 +31,7 @@ Welcome to the classic Snake Game!
 
 
 
-    Screenshot:
+Screenshot:
 
 
 ![SnakeGame](SnakeGame.png)
