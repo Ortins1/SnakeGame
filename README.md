@@ -1,4 +1,7 @@
 # SnakeGame
+
+![SnakeGame](https://imgur.com/a/01N19a3)
+
 Use arrows to move the Snake.
 
 You have to grab Apples.
