@@ -1,6 +1,7 @@
 # SnakeGame
 
-Welcome to the classic Snake Game!&nbsp;&nbsp;
+Welcome to the classic Snake Game!
+&nbsp;&nbsp;
 
 
 How to Play
@@ -12,6 +13,7 @@ Controls:
 Objective:
     Control the snake to eat apples without hitting the walls or itself.
     Eating apples increases the snake's length and speed.
+    &nbsp;&nbsp;
 
 
 Getting Started
