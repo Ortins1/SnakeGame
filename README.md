@@ -1,7 +1,5 @@
 # SnakeGame
 
-![SnakeGame](SnakeGame.png)
-
 Use arrows to move the Snake.
 
 You have to grab Apples.
@@ -15,3 +13,5 @@ Left arrow will move left.
 Right arrow will move right.
 
 Dont collide the head of the snake into the walls.
+
+![SnakeGame](SnakeGame.png)
