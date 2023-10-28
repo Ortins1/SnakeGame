@@ -1,6 +1,6 @@
 # SnakeGame
 
-Welcome to the classic Snake Game!
+Welcome to the classic Snake Game!&nbsp;&nbsp;
 
 
 How to Play
