@@ -25,6 +25,6 @@ To run the Snake Game:
         Alternatively, download the SnakeGame.jar file from the Releases section.
         Run the game by executing the .jar file.
 
-Screenshots
+Screenshot:
 
 ![SnakeGame](SnakeGame.png)
