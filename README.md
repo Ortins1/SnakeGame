@@ -1,6 +1,6 @@
 # SnakeGame
 
-![SnakeGame](https://imgur.com/a/01N19a3)
+![SnakeGame](SnakeGame.png)
 
 Use arrows to move the Snake.
 
